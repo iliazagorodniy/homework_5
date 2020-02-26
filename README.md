@@ -1,5 +1,7 @@
 # homework_5
 
+github pages: https://iliazagorodniy.github.io/homework_5/
+
 1) необходимо реализовать галерею на основе этого макета (не обязательно пиксель в пиксель)
 https://www.figma.com/file/HRSMjDYFrZzrK9HO555Km9/Untitled?node-id=0%3A1
 
